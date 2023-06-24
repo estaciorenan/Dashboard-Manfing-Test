@@ -2,7 +2,7 @@
 # Manfing Dashboard Test 
 
 # Sobre o projeto
-https://wmazoni-sds1.netlify.app
+https://dashboard-manfing-test-kvln.vercel.app/#/
 View do dashboard para visualização dos produtos mais vendidos e projeção de faturamento dentro de um período de 12 meses, na versão web e responsiva para despositivos mobile.
 ## Layout mobile
 ![Mobile 1](https://github.com/estaciorenan/Dashboard-Manfing-Test/blob/main/src/assets/mobile-1.PNG) 
